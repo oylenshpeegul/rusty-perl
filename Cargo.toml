@@ -1,0 +1,8 @@
+[package]
+name = "points"
+version = "0.1.0"
+authors = ["oylenshpeegul <theaney@gmail.com>"]
+
+[lib]
+name = "points"
+crate-type = ["dylib"]

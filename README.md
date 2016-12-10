@@ -5,6 +5,11 @@ I wanted to call Rust from Perl and I found [this blog post](http://paul.woolcoc
 
 ### Clone this repository.
 
+```bash
+git clone https://github.com/oylenshpeegul/rusty-perl.git
+cd rusty-perl
+```
+
 ### Run tests
 
 ```bash
